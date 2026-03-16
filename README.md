@@ -57,3 +57,10 @@ Mi primer portafolio profesional desarrollado con React y Vite, donde muestro mi
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
+
+---
+
+## ⭐ Estadísticas
+<p align="center">
+  <img src="https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=general&v=2" alt="Mis Estadísticas" />
+</p>
