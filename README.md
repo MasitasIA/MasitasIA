@@ -63,4 +63,7 @@ Mi primer portafolio profesional desarrollado con React y Vite, donde muestro mi
 ## ⭐ Estadísticas
 <p align="center">
   <img src="https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=general&v=2" alt="Mis Estadísticas" />
+  <img src="https://github-estadisticas-pixel.vercel.app/api/stats/MasitasIA?type=bar" alt="Mis Lenguajes" />
+
 </p>
+
